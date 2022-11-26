@@ -12,4 +12,4 @@ Controls:
 * X = Shot (hold to a big shot);
 * Arrow keys = Horizontal movement, jump and crouch.
 
-* If you lose the game, you will need to close the window and run the file again.
+-> If you lose the game, you will need to close the window and run the file again.
