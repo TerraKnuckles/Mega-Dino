@@ -7,6 +7,7 @@ To install, you will need to write in your terminal (after you have installed py
 * pip install keyboard
 
 With only these modules, you will be able to play this simple game by running the 'main.py' file.
+Remember, you will need to extract the file from the .zip to open the game.
 
 Controls:
 * X = Shot (hold to a big shot);
