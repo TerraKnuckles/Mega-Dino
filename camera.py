@@ -4,6 +4,7 @@ import pygame
 
 from screen_size import SCREEN_WIDTH
 
+
 pygame.init()
 
 
