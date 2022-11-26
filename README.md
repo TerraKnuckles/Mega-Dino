@@ -8,7 +8,7 @@ To install, you will need to write in your terminal (after you have installed py
 With only these modules, you will be able to play this simple game by running the 'main.py' file.
 
 Controls:
-  	* X = Shot (hold to a big shot)
+ 	* X = Shot (hold to a big shot)
 	* Arrow keys = Horizontal movement, jump and crouch.
 
 * If you lose the game, you will need to close the window and run the file again.
