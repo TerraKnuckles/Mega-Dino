@@ -5,6 +5,7 @@ To execute this project, you will need just two modules, which are pygame and ke
 To install, you will need to write in your terminal (after you have installed python):
 * pip install pygame
 * pip install keyboard
+
 With only these modules, you will be able to play this simple game by running the 'main.py' file.
 
 Controls:
