@@ -1,8 +1,8 @@
 Some sprites in this project belong Google and Capcom, like the dinosaur, the pterosaur, the meteor and the metal ball.
 
-To execute this project, first, you will need to extract the .zip file before any execution, then you will just need to install two modules, which are pygame and keyboard.
+-> To play, you will just need to run the 'Mega Dino.exe' file.
 
-To install, you will need to write in your terminal (after you have installed python):
+But if you want to tun by the code files, the requirements are these two modules. Install in your terminal after you have installed python:
 * pip install pygame
 * pip install keyboard
 
