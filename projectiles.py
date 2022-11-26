@@ -16,7 +16,7 @@ class DinoShot(pygame.sprite.Sprite):
         self.direction = direction
 
         if blast_type == 'small':
-            self.damage = 2
+            self.damage = 8
         else:
             self.damage = 30
 
